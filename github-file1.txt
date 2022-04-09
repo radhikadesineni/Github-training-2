@@ -1,1 +1,2 @@
 This is my repository 2
+adding feature file 2
