@@ -1,4 +1,4 @@
 #!/bin/bash
-echo “thisisosmething”
-echo “thisis another thing”
+echo “thisisosmething in the file”
+echo “thisis another thing in the file”
 
